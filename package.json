@@ -1,0 +1,25 @@
+{
+  "name": "s02-server",
+  "version": "0.0.0",
+  "description": "servidor http basico",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/janrodri/Server-static-.git"
+  },
+  "keywords": [
+    "javascrip",
+    "node",
+    "server"
+  ],
+  "author": "@janice",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/janrodri/Server-static-/issues"
+  },
+  "homepage": "https://github.com/janrodri/Server-static-#readme"
+}
